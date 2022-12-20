@@ -1,0 +1,51 @@
+.div1 {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin-top: 270px;
+}
+.button1 {
+  border: 5px solid black;
+  padding: 80px;
+  font-size: 30px;
+  background-color: grey;
+  color: black;
+  cursor: pointer;
+}
+.button2 {
+  border: 5px solid black;
+  padding: 80px;
+  font-size: 30px;
+  background-color: wheat;
+  color: white;
+  cursor: pointer;
+}
+.button3 {
+  border: 5px solid black;
+  padding: 80px;
+  font-size: 30px;
+  background-color: yellow;
+  color: orange;
+  cursor: pointer;
+}
+.cont {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin-top: 100px;
+  flex-direction: column;
+}
+
+.winstyle {
+  font-size: 50px;
+  color: green;
+}
+.losestyle {
+  font-size: 50px;
+  color: red;
+}
+.drawstyle {
+  font-size: 50px;
+  color: grey;
+}
